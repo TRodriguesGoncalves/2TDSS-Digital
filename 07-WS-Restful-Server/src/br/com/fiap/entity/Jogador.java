@@ -10,6 +10,6 @@ public class Jogador {
 	
 	private boolean titular;
 	
-	
+		
 	
 }
